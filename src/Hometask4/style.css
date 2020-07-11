@@ -1,0 +1,23 @@
+.button{
+    -fx-font-size: 12px;
+    -fx-background-color:#B5B5B5;
+    -fx-text-fill: white;
+}
+
+.textarea{
+    -fx-background-color:#E8E8E8;
+    -fx-text-fill: #1C1C1C;
+
+}
+
+#chatTextArrea{
+    -fx-font-size: 15;
+}
+
+.button:hover{
+    -fx-background-color:#D3D3D3;
+}
+
+.button:pressed {
+    -fx-background-color:#DCDCDC;
+}
